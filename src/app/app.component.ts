@@ -19,7 +19,7 @@ export class AppComponent {
   friends : any = [];
   friendsOffriends : any = [];
   suggestedFriends : any = [];
-  private baseUrl : string ='/SocialNetworkInternship/assets/data.json';
+  private baseUrl : string ='https://beyram-benelghali.github.io/social-network-test/assets/data.json';
 
 
   ngOnInit() {
