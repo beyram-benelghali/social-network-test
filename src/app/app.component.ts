@@ -19,7 +19,7 @@ export class AppComponent {
   friends : any = [];
   friendsOffriends : any = [];
   suggestedFriends : any = [];
-  private baseUrl : string ='../assets/data.json';
+  private baseUrl : string ='/assets/data.json';
 
 
   ngOnInit() {
